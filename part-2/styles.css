@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+button {
+  margin: 5px;
+}
+#card-area > img {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
